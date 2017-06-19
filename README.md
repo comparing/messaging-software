@@ -1,5 +1,4 @@
 # Messaging Software
-==================================================
 
 
 |  	| Allo 	| Duo 	| Messenger 	| Skype 	| Slack 	| Telegram 	| Viber 	| WhatsApp 	|
